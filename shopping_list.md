@@ -1,0 +1,3 @@
+- Victory Amplification V1 The Kraken Pedal
+- Truetone 1 SPOT Slim 9V DC Adapter
+- New Guitar Input Jack?
