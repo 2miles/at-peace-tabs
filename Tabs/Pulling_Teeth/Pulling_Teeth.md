@@ -1,15 +1,15 @@
 # Pulling Teeth
 
-|         |     |     |
-| ------- | --- | --- |
-| Riff 1  | 4x  |     |
-| Riff 1b | 2x  |     |
-| Riff 2  | 4x  |     |
-| Riff 1  | 2x  |     |
-| Riff 3  | 4x  |     |
-| Riff 3b | 4x  |     |
-| Riff 3  | 4x  |     |
-| End     |     |     |
+|         |     |                     |
+| ------- | --- | ------------------- |
+| Riff 1  | 4x  | Main strummy        |
+| Riff 1b | 2x  | Main w/ groove      |
+| Riff 2  | 4x  | fast strummy bridge |
+| Riff 1  | 2x  | Main strummy        |
+| Riff 3  | 4x  | Breakdown           |
+| Riff 3b | 4x  | Breakdown w/ chuggs |
+| Riff 3  | 4x  | Breakdown           |
+| End     | 1x  | End                 |
 
 ### Riff 1
 
