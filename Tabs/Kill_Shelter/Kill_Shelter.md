@@ -5,13 +5,13 @@
 | Intro   | 3x  | Intro           |
 | Riff 1  | 1x  | Thrash          |
 | Riff 1b | 1x  | Bridge          |
-| Riff 2  | 4x  | Melodic Jam     |
+| Riff 2  | 4x  | Melodic jam     |
 | Riff 3  | 2x  | Thrash #2       |
-| Riff 4  | 1x  | Ring Outs       |
+| Riff 4  | 1x  | Ring outs       |
 | Riff 5  | 4x  | Metal           |
 | Riff 6  | 4x  | Temelo          |
-| Riff 7  | 4x  | Break Down      |
-| Riff 8  | 1x  | Solo 7 & Rhythm |
+| Riff 7  | 4x  | Break down      |
+| Riff 8  | 1x  | Solo 7 & rhythm |
 
 ### Intro
 
